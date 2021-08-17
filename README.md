@@ -12,3 +12,7 @@
 
 # PARA EL DEPLOY CON HEROKU
   Crear un archivo Procfile
+
+# PARA EL TESTING DIRECTO 
+  se puede usar la extension de visual studio code REST CLIENT
+  Crear un archivo para cada endpoint en la carpeta requests
